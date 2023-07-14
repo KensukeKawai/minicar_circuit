@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "motordriver_v1-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/motordriver_v1-eagle-import.kicad_sym")(options "")(descr ""))
+)
